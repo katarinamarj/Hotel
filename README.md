@@ -2,6 +2,8 @@ This is a web application built in PHP where users can search and book hotel roo
 
 ![home](https://github.com/user-attachments/assets/41469fa2-f753-4786-805c-74c95d72f822)
 
+![home2](https://github.com/user-attachments/assets/0d45f876-4ac7-43df-a040-623515304177)
+
 ![login](https://github.com/user-attachments/assets/07d8c7e2-c003-41bf-bb1a-9ecfcf799799)
 
 ![registration](https://github.com/user-attachments/assets/756e974d-5025-4e39-b173-1d9125897e68)

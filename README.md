@@ -1,4 +1,4 @@
-This is a web application developed using PHP and HTML to enable simple and efficient hotel room booking. System users can search for available rooms and book them directly through the web application, while administrators manage the reservations.
+This is a web application developed using PHP and HTML to enable simple and efficient hotel room booking. Users can search for available rooms and book them directly through the web application, while administrators manage the reservations.
 
 ![home](https://github.com/user-attachments/assets/41469fa2-f753-4786-805c-74c95d72f822)
 
